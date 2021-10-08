@@ -1,4 +1,3 @@
-# pytest_tests_calc
 # Modul-19.2.3
 Test project for SF-QAP
 
