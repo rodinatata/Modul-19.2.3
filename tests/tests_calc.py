@@ -1,4 +1,4 @@
-import requests
+import pytest
 from calculator import Calculator
 
 
